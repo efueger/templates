@@ -1,0 +1,2 @@
+ - [ ] Github
+ - [x] Terminal
